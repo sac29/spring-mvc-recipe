@@ -3,6 +3,7 @@ package com.sachin.spring5recipeapp.models;
 import javax.persistence.*;
 import java.math.BigDecimal;
 
+@Entity
 public class Ingredient {
 
     @Id
